@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View", "View\View.csproj", "{81820B50-4FE9-4865-9C1A-045A37E35278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{6D9009FA-CAE4-49DE-A151-4BCC99671ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JigsawWpfApp", "JigsawWpfApp\JigsawWpfApp.csproj", "{E3E261EC-3C7A-4CC9-A3F0-8FBE9C03314E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81820B50-4FE9-4865-9C1A-045A37E35278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81820B50-4FE9-4865-9C1A-045A37E35278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81820B50-4FE9-4865-9C1A-045A37E35278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81820B50-4FE9-4865-9C1A-045A37E35278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9009FA-CAE4-49DE-A151-4BCC99671ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9009FA-CAE4-49DE-A151-4BCC99671ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9009FA-CAE4-49DE-A151-4BCC99671ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9009FA-CAE4-49DE-A151-4BCC99671ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E261EC-3C7A-4CC9-A3F0-8FBE9C03314E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E261EC-3C7A-4CC9-A3F0-8FBE9C03314E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E261EC-3C7A-4CC9-A3F0-8FBE9C03314E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E261EC-3C7A-4CC9-A3F0-8FBE9C03314E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E2DA04-8741-4012-86A1-DBCDF9E9E6D4}
+	EndGlobalSection
+EndGlobal
