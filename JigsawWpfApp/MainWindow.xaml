@@ -20,8 +20,8 @@
                 <MenuItem Header="Edit"></MenuItem>
             </Menu>
             
-                <!--<Viewbox x:Name="MainViewBox" Stretch="None" MinHeight="20">-->
-                    <Canvas x:Name="PuzzleCanvas" MinWidth="800" MinHeight="420"/>
+            <!--<Viewbox x:Name="MainViewBox" Stretch="None" MinHeight="20">-->
+            <Canvas x:Name="PuzzleCanvas" MinWidth="800" MinHeight="420"/>
 
             
         </StackPanel>

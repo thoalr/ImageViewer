@@ -127,6 +127,7 @@ namespace WpfApp1
         private void ImageControl_MouseDown(object sender, MouseEventArgs e)
         {
             _previousMousePosition = e.GetPosition(this);
+            //ImageControl.DragMove();
 
         }
 
